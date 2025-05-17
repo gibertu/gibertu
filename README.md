@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanna</h1>
-<h3 align="center">A data analyst studying to become a data engineer.</h3>
+<h3 align="center">I'm Data Engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
